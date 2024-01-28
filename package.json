@@ -1,0 +1,15 @@
+{
+  "name": "short-tdd",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000h\u0000o\u0000r\u0000t\u0000-\u0000t\u0000d\u0000d\u0000\r\u0000 \u0000",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
